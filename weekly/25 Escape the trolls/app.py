@@ -201,7 +201,7 @@ def play(player):
 
 def init():
     '''
-    Initialize player object and start main game loop
+    Spawn player object and start main game loop
     '''
     player = spawn_player()
 
